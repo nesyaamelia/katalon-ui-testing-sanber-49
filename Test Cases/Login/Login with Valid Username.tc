@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Valid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>108c5b58-d2fc-4260-910a-4099a0dbdc15</testCaseGuid>
+</TestCaseEntity>
